@@ -1,18 +1,24 @@
 <snippet>
 	<content><![CDATA[
-define([
-// Libraries
-'jQuery', 
-'Underscore', 
-'Backbone'
+define(
+[
+    // Libraries
+    'jQuery', 
+    'Underscore', 
+    'Backbone'
 ],
-
 function(\$, _, Backbone){
-	
+    
+    //--------------------------------------------------------------------------
+    //
+    // Exports
+    //
+    //--------------------------------------------------------------------------
+
 	return {};
 });
 ]]></content>
 	<tabTrigger>boilerplate</tabTrigger>
 	<scope>source.js</scope>
-	<description>RequireJS boilerplate</description>
+	<description>RequireJS module</description>
 </snippet>
