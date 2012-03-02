@@ -1,0 +1,11 @@
+<snippet>
+    <content><![CDATA[
+//----------------------------------
+//
+// ${1:name}
+//
+//----------------------------------
+]]></content>
+    <tabTrigger>jsdminor</tabTrigger>
+    <scope>source.js</scope>
+</snippet>
