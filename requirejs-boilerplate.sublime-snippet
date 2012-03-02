@@ -1,5 +1,9 @@
 <snippet>
 	<content><![CDATA[
+/**
+ * ${1:Description}
+ * @author ${2:Author}
+ */
 define(
 [
     // Libraries
