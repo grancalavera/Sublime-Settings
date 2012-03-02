@@ -1,0 +1,17 @@
+<snippet>
+	<content><![CDATA[
+define([
+// Libraries
+'jQuery', 
+'Underscore', 
+'Backbone'
+],
+
+function(\$, _, Backbone){
+	
+	return {};
+});
+]]></content>
+	<tabTrigger>boilerplate</tabTrigger>
+	<scope>source.js</scope>
+</snippet>
