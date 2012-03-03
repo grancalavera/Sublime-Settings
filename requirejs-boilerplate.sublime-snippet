@@ -7,8 +7,6 @@
  *
  * Dependencies:
  * - RequireJS
- * - RequireJS/order
- * - RequireJS/text
  * - Underscore.js
  * - Backbone.js
  * - Underscore-ext.js
@@ -29,8 +27,13 @@ function(\$, _, Backbone){
     // Exports
     //
     //--------------------------------------------------------------------------
+    /**
+     * Listing of all module exports:
+     * 
+     * - ``
+	return {
 
-	return {};
+    };
 });
 ]]></content>
 	<tabTrigger>module</tabTrigger>
