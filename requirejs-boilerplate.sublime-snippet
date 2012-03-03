@@ -1,8 +1,19 @@
 <snippet>
 	<content><![CDATA[
 /**
- * ${1:Description}
- * @author ${2:Author}
+ * ${1:Title}
+ *
+ * ${2:Description}
+ *
+ * Dependencies:
+ * - RequireJS
+ * - RequireJS/order
+ * - RequireJS/text
+ * - Underscore.js
+ * - Backbone.js
+ * - Underscore-ext.js
+ *
+ * @author ${3:Author}
  */
 define(
 [
@@ -22,7 +33,7 @@ function(\$, _, Backbone){
 	return {};
 });
 ]]></content>
-	<tabTrigger>boilerplate</tabTrigger>
+	<tabTrigger>module</tabTrigger>
 	<scope>source.js</scope>
 	<description>RequireJS module</description>
 </snippet>

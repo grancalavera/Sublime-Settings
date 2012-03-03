@@ -1,11 +1,18 @@
 {
-    "color_scheme": "Packages/Color Scheme - Default/Monokai Bright.tmTheme",
-    "font_size": 12.0,
-    "rulers": [80],
-    "margin":0,
-    "translate_tabs_to_spaces":true,
-    "caret_style":"phase",
-    "ensure_newline_at_eof_on_save": true,
-    "highlight_line":true,
-    "indent_guide_options":["draw_active", "draw_normal"]
+	"caret_style": "phase",
+	"color_scheme": "Packages/Color Scheme - Default/Monokai Bright.tmTheme",
+	"ensure_newline_at_eof_on_save": true,
+	"font_size": 12.0,
+	"highlight_line": true,
+	"indent_guide_options":
+	[
+		"draw_active",
+		"draw_normal"
+	],
+	"margin": 0,
+	"rulers":
+	[
+		80
+	],
+	"translate_tabs_to_spaces": true
 }

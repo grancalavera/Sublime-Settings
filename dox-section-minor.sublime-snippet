@@ -6,6 +6,6 @@
 //
 //----------------------------------
 ]]></content>
-    <tabTrigger>jsdminor</tabTrigger>
+    <tabTrigger>doxminor</tabTrigger>
     <scope>source.js</scope>
 </snippet>

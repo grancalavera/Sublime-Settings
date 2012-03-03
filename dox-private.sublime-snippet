@@ -1,9 +1,10 @@
 <snippet>
 	<content><![CDATA[
-/**
+/*!
  * @private
  */
 ]]></content>
-	<tabTrigger>jsdprivate</tabTrigger>
+	<tabTrigger>doxprivate</tabTrigger>
 	<scope>source.js</scope>
+    <description>Sets .ignore = true</description>
 </snippet>
