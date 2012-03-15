@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+<h2>${1:title}</h2>
+
+<hr>
+]]></content>
+    <tabTrigger>bssub</tabTrigger>
+    <scope>text.html,text.html.django</scope>
+</snippet>

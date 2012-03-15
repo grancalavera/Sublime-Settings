@@ -1,0 +1,11 @@
+<snippet>
+    <content><![CDATA[
+<!-- -----------------------------------
+
+  ${1:name}
+
+------------------------------------ -->
+]]></content>
+    <tabTrigger>minor</tabTrigger>
+    <scope>text.html,text.html.django</scope>
+</snippet>

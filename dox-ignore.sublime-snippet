@@ -2,7 +2,7 @@
 	<content><![CDATA[
 /*! @ignore */
 ]]></content>
-	<tabTrigger>doxignore</tabTrigger>
+	<tabTrigger>ignore</tabTrigger>
 	<scope>source.js</scope>
     <description>Sets .ignore = true</description>
 </snippet>

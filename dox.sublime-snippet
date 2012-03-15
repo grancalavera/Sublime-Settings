@@ -6,6 +6,6 @@
  * ${2:Description}
  */
 ]]></content>
-	<tabTrigger>dox</tabTrigger>
+	<tabTrigger>doc</tabTrigger>
 	<scope>source.js</scope>
 </snippet>
