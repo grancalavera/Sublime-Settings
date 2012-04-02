@@ -1,0 +1,24 @@
+<snippet>
+    <content><![CDATA[
+/**
+ * ${1:Name}
+ *
+ * ${2:Description}
+ *
+ * @author ${3:Author}
+ */
+define('${4:Path}${1:Name}', 
+['jquery', 'backbone', 'underscore', 'components/ComponentBase'], 
+function(\$, Backbone, _, ComponentBase){
+    
+    var ${1:Name} = ComponentBase.extend({
+        name: '${4:Path}${1:Name}'
+    });
+    
+    return ${1:Name};
+});
+]]></content>
+    <tabTrigger>component</tabTrigger>
+    <scope>source.js</scope>
+    <description>RequireJS / Backbone component</description>
+</snippet>

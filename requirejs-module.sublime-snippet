@@ -1,0 +1,24 @@
+<snippet>
+    <content><![CDATA[
+/**
+ * ${1:Title}
+ *
+ * ${2:Description}
+ *
+ * @author ${3:Author}
+ */
+define('${4:name}', ['jquery', ${5:dependencies}], function(\$, ${6:dependencies}){
+
+    //--------------------------------------------------------------------------
+    //
+    // Exports
+    //
+    //--------------------------------------------------------------------------
+
+    return;
+});
+]]></content>
+    <tabTrigger>define</tabTrigger>
+    <scope>source.js</scope>
+    <description>RequireJS module</description>
+</snippet>

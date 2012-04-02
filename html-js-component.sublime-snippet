@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+<script type="text/template" data-component="${1:definition}">
+</script>
+]]></content>
+    <tabTrigger>component</tabTrigger>
+    <scope>text.html,text.html.django</scope>
+</snippet>
