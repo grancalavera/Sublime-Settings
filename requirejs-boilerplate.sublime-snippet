@@ -16,12 +16,12 @@
 define(
 [
     // Libraries
-    'jQuery', 
-    'Underscore', 
+    'jQuery',
+    'Underscore',
     'Backbone'
 ],
 function(\$, _, Backbone){
-    
+
     //--------------------------------------------------------------------------
     //
     // Exports
@@ -29,7 +29,7 @@ function(\$, _, Backbone){
     //--------------------------------------------------------------------------
     /**
      * Listing of all module exports:
-     * 
+     *
      * - ``
      */
 	return {

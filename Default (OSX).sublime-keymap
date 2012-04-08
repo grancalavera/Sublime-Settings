@@ -1,3 +1,4 @@
 [
-    { "keys": ["super+ctrl+alt+d"], "command": "toggle_side_bar" }
+    { "keys": ["super+ctrl+alt+d"], "command": "toggle_side_bar" },
+    { "keys": ["super+shift+backspace"], "command": "delete_trailing_spaces" }
 ]

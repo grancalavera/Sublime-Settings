@@ -2,9 +2,10 @@
 	<content><![CDATA[
 /**
  * ${1:Title}
- * 
+ *
  * ${2:Description}
  */
+${3}
 ]]></content>
 	<tabTrigger>doc</tabTrigger>
 	<scope>source.js</scope>

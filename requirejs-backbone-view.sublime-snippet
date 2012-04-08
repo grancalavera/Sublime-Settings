@@ -7,14 +7,14 @@
  *
  * @author ${3:Author}
  */
-define('${4:Path}${1:Name}', 
-['jquery', 'backbone', 'underscore', 'components/ComponentBase'], 
+define('${4:Path}${1:Name}',
+['jquery', 'backbone', 'underscore', 'components/ComponentBase'],
 function(\$, Backbone, _, ComponentBase){
-    
+
     var ${1:Name} = ComponentBase.extend({
         name: '${4:Path}${1:Name}'
     });
-    
+
     return ${1:Name};
 });
 ]]></content>
