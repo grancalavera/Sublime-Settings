@@ -5,11 +5,17 @@
  *
  * ${2:Description}
  *
- * @author ${3:Author}
+ * @author ${3:leon.coto@razorfish.com}
  */
-define('${4:Path}${1:Name}',
-['jquery', 'backbone', 'underscore', 'components/ComponentBase'],
-function(\$, Backbone, _, ComponentBase){
+define('${4:Path}${1:Name}', ['jquery', 'backbone', 'underscore', 'components/ComponentBase'], function (\$, Backbone, _, ComponentBase) {
+
+    'use strict';
+
+    //--------------------------------------------------------------------------
+    //
+    // ${1:Name}
+    //
+    //--------------------------------------------------------------------------
 
     var ${1:Name} = ComponentBase.extend({
         name: '${4:Path}${1:Name}'
