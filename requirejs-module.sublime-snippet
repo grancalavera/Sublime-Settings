@@ -1,13 +1,13 @@
 <snippet>
     <content><![CDATA[
 /**
- * ${1:Title}
+ * ${1:name}
  *
  * ${2:Description}
  *
- * @author ${3:Author}
+ * @author leon.coto@razorfish.com
  */
-define('${4:name}', ['jquery', ${5:dependencies}], function(\$, ${6:dependencies
+define('${1:name}', ['jquery', ${4:dependencies}], function (\$, ${5:dependencies}) {
 
     'use strict';
 
