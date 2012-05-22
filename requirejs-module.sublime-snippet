@@ -7,7 +7,7 @@
  *
  * @author leon.coto@razorfish.com
  */
-define('${1:name}', ['jquery', ${4:dependencies}], function (\$, ${5:dependencies}) {
+define(['jquery', ${3:dependencies}], function (\$, ${4:dependencies}) {
 
     'use strict';
 
