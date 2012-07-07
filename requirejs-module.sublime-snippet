@@ -5,9 +5,9 @@
  *
  * ${2:Description}
  *
- * @author ${3:Author}
+ * @author ${3:leoncoto@gmail.com}
  */
-define('${4:name}', ['jquery', ${5:dependencies}], function(\$, ${6:dependencies
+define(['jquery', ${5:dependencies}], function(\$, ${6:dependencies}) {
 
     'use strict';
 

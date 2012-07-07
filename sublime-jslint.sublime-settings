@@ -1,5 +1,5 @@
 {
-    "jslint_options": "--browser --predef 'define, require, alert' --nomen --vars --devel",
+    "jslint_options": "--browser --predef 'define, require, alert' --nomen --devel",
     // "run_on_save": true,
     "debug":true
 }
