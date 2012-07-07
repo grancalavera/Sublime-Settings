@@ -1,13 +1,14 @@
 <snippet>
     <content><![CDATA[
 /**
- * ${1:Title}
+ * ${1:name}
  *
  * ${2:Description}
  *
  * @author ${3:leoncoto@gmail.com}
  */
-define(['jquery', ${5:dependencies}], function(\$, ${6:dependencies}) {
+ */
+define(['jquery', ${4:dependencies}], function (\$, ${5:dependencies}) {
 
     'use strict';
 

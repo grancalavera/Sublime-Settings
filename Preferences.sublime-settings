@@ -14,5 +14,8 @@
 	[
 		100
 	],
-	"translate_tabs_to_spaces": true
+	"theme": "Soda Dark.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"word_wrap": false,
+	"wrap_width": 100
 }
