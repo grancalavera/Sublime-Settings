@@ -1,12 +1,13 @@
 {
 	"caret_style": "phase",
-	"color_scheme": "Packages/Color Scheme - Default/Monokai Bright.tmTheme",
+	"color_scheme": "Packages/Color Scheme - Default/Solarized (Dark).tmTheme",
 	"ensure_newline_at_eof_on_save": true,
 	"font_size": 10.0,
 	"highlight_line": true,
 	"ignored_packages":
 	[
-		"Vintage"
+		"Vintage",
+		"Ensime"
 	],
 	"indent_guide_options":
 	[
@@ -16,10 +17,11 @@
 	"margin": 0,
 	"rulers":
 	[
-		100
+		80
 	],
+	"tab_size": 2,
 	"theme": "Soda Dark.sublime-theme",
 	"translate_tabs_to_spaces": true,
-	"word_wrap": false,
-	"wrap_width": 100
+	"use_simple_full_screen": true,
+	"word_wrap": false
 }

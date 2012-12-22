@@ -1,8 +1,0 @@
-<snippet>
-	<content><![CDATA[
-/*! @ignore */
-]]></content>
-	<tabTrigger>ignore</tabTrigger>
-	<scope>source.js</scope>
-    <description>Sets .ignore = true</description>
-</snippet>

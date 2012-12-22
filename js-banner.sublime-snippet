@@ -7,6 +7,6 @@
  */
 ${3}
 ]]></content>
-	<tabTrigger>doc</tabTrigger>
-	<scope>source.js</scope>
+	<tabTrigger>banner</tabTrigger>
+	<scope>source.js,source.c++.arduino</scope>
 </snippet>

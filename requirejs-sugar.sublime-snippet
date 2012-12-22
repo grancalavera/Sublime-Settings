@@ -1,0 +1,14 @@
+<snippet>
+    <content><![CDATA[
+// ${2:Description}
+// ${3:leoncoto@gmail.com}
+define(function (require) {
+    'use strict';
+    var \$ = require('jquery');
+
+});
+]]></content>
+    <tabTrigger>sugar</tabTrigger>
+    <scope>source.js</scope>
+    <description>RequireJS module with sugar syntax</description>
+</snippet>
