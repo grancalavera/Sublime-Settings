@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+var $ = require('jquery');
+${1}
+]]></content>
+  <tabTrigger>requirejquery</tabTrigger>
+  <scope>source.js</scope>
+</snippet>
