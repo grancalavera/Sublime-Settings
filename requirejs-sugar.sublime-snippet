@@ -1,10 +1,12 @@
 <snippet>
     <content><![CDATA[
-// ${2:Description}
-// ${3:leoncoto@gmail.com}
+// ${1:Description}
+// ${2:leoncoto@gmail.com}
 define(function (require) {
     'use strict';
     var \$ = require('jquery');
+
+    ${3}
 
 });
 ]]></content>
