@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+test('${1:Test name}', function () {
+  ${2:ok(false, 'should be true');}
+});
+]]></content>
+  <tabTrigger>qunittest</tabTrigger>
+  <scope>source.js</scope>
+</snippet>
