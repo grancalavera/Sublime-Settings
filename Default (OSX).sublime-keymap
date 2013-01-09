@@ -1,5 +1,46 @@
 [
-    { "keys": ["super+ctrl+alt+d"], "command": "toggle_side_bar" },
-    { "keys": ["super+shift+backspace"], "command": "delete_trailing_spaces" },
-    { "keys": ["super+shift+w"], "command": "close_all" }
+
+  //--------------------------------------------------------------------------
+  //
+  // Sublime
+  //
+  //--------------------------------------------------------------------------
+  { "keys": ["super+ctrl+alt+d"], "command": "toggle_side_bar" },
+  { "keys": ["super+shift+backspace"], "command": "delete_trailing_spaces" },
+  { "keys": ["super+shift+w"], "command": "close_all" },
+
+  //--------------------------------------------------------------------------
+  //
+  // Emmet: Remember to comment the default configuration in Emmet
+  //        (or find the proper way to override Emmet settings)
+  //
+  //--------------------------------------------------------------------------
+  {
+    "keys": [
+      "ctrl+]"
+    ],
+    "args": {
+      "action": "match_pair_outward"
+    },
+    "command": "run_emmet_action",
+    "context": [
+      {
+        "key": "emmet_action_enabled.match_pair_outward"
+      }
+    ]
+  },
+  {
+    "keys": [
+      "ctrl+["
+    ],
+    "args": {
+      "action": "match_pair_inward"
+    },
+    "command": "run_emmet_action",
+    "context": [
+      {
+        "key": "emmet_action_enabled.match_pair_inward"
+      }
+    ]
+  }
 ]

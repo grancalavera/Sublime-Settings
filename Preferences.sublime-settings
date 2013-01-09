@@ -7,8 +7,7 @@
 	"ignored_packages":
 	[
 		"Vintage",
-		"Ensime",
-		"Emmet"
+		"Ensime"
 	],
 	"indent_guide_options":
 	[
