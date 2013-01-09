@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[
-var Modernizr = require('modernizr');
+var Modernizr = require('modernizr')
 ${1}
 ]]></content>
   <tabTrigger>requiremodernizr</tabTrigger>

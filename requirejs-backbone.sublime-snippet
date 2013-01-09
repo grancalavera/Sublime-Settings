@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[
-var Backbone = require('backbone');
+var Backbone = require('backbone')
 ${1}
 ]]></content>
   <tabTrigger>requirebackbone</tabTrigger>

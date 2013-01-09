@@ -4,7 +4,7 @@ module('${1:Module name}', {
   setup: function () {
     ${2}
   }
-});
+})
 ]]></content>
   <tabTrigger>qunitmodule</tabTrigger>
   <scope>source.js</scope>

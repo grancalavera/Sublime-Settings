@@ -23,18 +23,18 @@ define(function (require) {
       notStrictEqual(actual, expected, [message])
       raises(block, [expected], [message])
   */
-  var \$ = require('jquery');
+  var \$ = require('jquery')
 
   module('${1:Module name}', {
     setup: function () {
     }
-  });
+  })
 
   test('${2:Test name}', function () {
-    ${3:ok(false, 'should be true');}
-  });
+    ${3:ok(false, 'should be true')}
+  })
 
-});
+})
 ]]></content>
   <tabTrigger>qunit</tabTrigger>
   <scope>source.js</scope>

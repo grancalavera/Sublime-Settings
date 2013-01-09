@@ -1,4 +1,0 @@
-{
-    "jslint_options": "--browser --nomen --devel --vars --predef 'define, require, QUnit, requirejs, alert, exports, QUnit, test, asyncTest, expect, module, ok, equal, notEqual, deepEqual, notDeepEqual, strictEqual, notStrictEqual, raises, start, stop, throws' ",
-    "debug":true
-}

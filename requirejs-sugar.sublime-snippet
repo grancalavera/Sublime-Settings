@@ -1,14 +1,13 @@
 <snippet>
     <content><![CDATA[
 // ${1:Description}
-// ${2:leoncoto@gmail.com}
+// ${2:leon.coto@razorfish.com}
 define(function (require) {
     'use strict';
-    var \$ = require('jquery');
+    var \$ = require('jquery')
 
     ${3}
-
-});
+})
 ]]></content>
     <tabTrigger>sugar</tabTrigger>
     <scope>source.js</scope>
