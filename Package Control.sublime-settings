@@ -1,0 +1,24 @@
+{
+	"auto_upgrade_last_run": null,
+	"installed_packages":
+	[
+		"Backbone.js",
+		"Color Scheme - Frontend Delight",
+		"Djaneiro",
+		"Emmet",
+		"Ensime",
+		"FileDiffs",
+		"Handlebars",
+		"jQuery Snippets pack",
+		"LESS",
+		"LESS-build",
+		"Package Control",
+		"Pretty JSON",
+		"ScalaTest",
+		"Search Stack Overflow",
+		"SVN",
+		"Terminal",
+		"Theme - Soda",
+		"TrailingSpaces"
+	]
+}
