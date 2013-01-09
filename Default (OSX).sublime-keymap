@@ -13,6 +13,7 @@
   //
   // Emmet: Remember to comment the default configuration in Emmet
   //        (or find the proper way to override Emmet settings)
+  //        see: https://github.com/sergeche/emmet-sublime#overriding-keyboard-shortcuts
   //
   //--------------------------------------------------------------------------
   {
@@ -40,6 +41,20 @@
     "context": [
       {
         "key": "emmet_action_enabled.match_pair_inward"
+      }
+    ]
+  },
+  {
+    "keys": [
+      "ctrl+x"
+    ],
+    "args": {
+      "action": "expand_abbreviation"
+    },
+    "command": "run_emmet_action",
+    "context": [
+      {
+        "key": "emmet_action_enabled.expand_abbreviation"
       }
     ]
   }
