@@ -3,6 +3,6 @@
 var $ = require('jquery')
 ${1}
 ]]></content>
-  <tabTrigger>requirejquery</tabTrigger>
+  <tabTrigger>requirejq</tabTrigger>
   <scope>source.js</scope>
 </snippet>
