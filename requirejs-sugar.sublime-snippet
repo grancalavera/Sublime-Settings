@@ -1,7 +1,7 @@
 <snippet>
     <content><![CDATA[
 // ${1:Description}
-// ${2:leon.coto@razorfish.com}
+// ${2:leoncoto@gmail.com}
 define(function (require) {
     'use strict';
     var \$ = require('jquery')
