@@ -2,24 +2,18 @@
 	"auto_upgrade_last_run": null,
 	"installed_packages":
 	[
-		"Arduino",
-		"Backbone.js",
 		"Emmet",
 		"Ensime",
 		"FileDiffs",
 		"FileTemplates",
 		"Handlebars",
-		"jQuery Snippets pack",
 		"LESS",
 		"LESS-build",
 		"Liquid",
 		"Package Control",
 		"Pretty JSON",
-		"Processing",
-		"ScalaTest",
 		"Search Stack Overflow",
 		"Terminal",
-		"Theme - Pseudo OSX",
 		"Theme - Soda",
 		"TrailingSpaces"
 	]
