@@ -2,13 +2,12 @@
 	"caret_style": "phase",
 	"color_scheme": "Packages/Color Scheme - Default/Solarized (Dark).tmTheme",
 	"ensure_newline_at_eof_on_save": true,
-	"font_size": 10,
+	"font_size": 12,
 	"highlight_line": true,
 	"ignored_packages":
 	[
 		"Vintage",
-		"Ensime",
-		"Emmet"
+		"Ensime"
 	],
 	"indent_guide_options":
 	[

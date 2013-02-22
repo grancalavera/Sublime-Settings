@@ -2,7 +2,6 @@
 	"auto_upgrade_last_run": null,
 	"installed_packages":
 	[
-		"Emmet",
 		"Ensime",
 		"FileDiffs",
 		"FileTemplates",
