@@ -27,5 +27,8 @@
 	"translate_tabs_to_spaces": true,
 	"use_simple_full_screen": true,
 	"word_wrap": true,
-	"wrap_width": 100
+	"wrap_width": 100,
+    "translate_tabs_to_spaces": true,
+    "trim_trailing_white_space_on_save": true,
+    "default_line_ending": "LF"
 }
