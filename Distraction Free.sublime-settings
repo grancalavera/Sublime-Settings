@@ -1,5 +1,7 @@
 {
     "highlight_line": true,
     "word_wrap": true,
-    "wrap_width": 100
+    "wrap_width": 100,
+    "line_numbers": true,
+    "gutter": true
 }

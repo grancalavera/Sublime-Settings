@@ -1,7 +1,6 @@
 <snippet>
   <content><![CDATA[
-var \$ = require('jquery')
-${1}
+var \$ = require('jquery');${1}
 ]]></content>
   <tabTrigger>requirejq</tabTrigger>
   <scope>source.js</scope>
