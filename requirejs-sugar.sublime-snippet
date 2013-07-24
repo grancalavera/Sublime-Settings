@@ -1,22 +1,11 @@
 <snippet>
     <content><![CDATA[
 // ${1:Description}
-// ${2:leon.coto@mcsaatchi.com}
-define(function (require) {
-<<<<<<< Updated upstream
+// ${2:leoncoto@gmail.com}
+define(function (require, exports, module) {
     'use strict';
-    var exports = {};
-    var \$ = require('jquery');
-    ${3}
-
-    return exports;
+    ${1}
 });
-=======
-  'use strict';
-  var \$ = require('jquery')
-  ${3}
-})
->>>>>>> Stashed changes
 ]]></content>
     <tabTrigger>sugar</tabTrigger>
     <scope>source.js</scope>
