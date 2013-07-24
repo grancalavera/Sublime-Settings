@@ -3,5 +3,6 @@
     "word_wrap": true,
     "wrap_width": 100,
     "line_numbers": true,
+    "wrap_width": 100,
     "gutter": true
 }

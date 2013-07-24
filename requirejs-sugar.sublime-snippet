@@ -3,6 +3,7 @@
 // ${1:Description}
 // ${2:leon.coto@mcsaatchi.com}
 define(function (require) {
+<<<<<<< Updated upstream
     'use strict';
     var exports = {};
     var \$ = require('jquery');
@@ -10,6 +11,12 @@ define(function (require) {
 
     return exports;
 });
+=======
+  'use strict';
+  var \$ = require('jquery')
+  ${3}
+})
+>>>>>>> Stashed changes
 ]]></content>
     <tabTrigger>sugar</tabTrigger>
     <scope>source.js</scope>
