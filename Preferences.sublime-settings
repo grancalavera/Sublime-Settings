@@ -1,7 +1,8 @@
 {
 	"caret_style": "phase",
-	"draw_centered": true,
 	"color_scheme": "Packages/Color Scheme - Default/Cobalt.tmTheme",
+	"default_line_ending": "LF",
+	"draw_centered": true,
 	"ensure_newline_at_eof_on_save": true,
 	"font_size": 12,
 	"highlight_line": true,
@@ -25,10 +26,8 @@
 	"tab_size": 4,
 	"theme": "Soda Light.sublime-theme",
 	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
 	"use_simple_full_screen": true,
 	"word_wrap": true,
-	"wrap_width": 100,
-    "translate_tabs_to_spaces": true,
-    "trim_trailing_white_space_on_save": true,
-    "default_line_ending": "LF"
+	"wrap_width": 100
 }
