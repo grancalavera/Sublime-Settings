@@ -1,0 +1,46 @@
+<snippet>
+  <content><![CDATA[
+console.log("                                                    /");
+console.log("                                                  .7");
+console.log("                                       \\\       , //");
+console.log("                                       |\\\.--._/|//");
+console.log("                                      /\\\ ) ) ).'/");
+console.log("                                     /(  \\\  // /");
+console.log("                                    /(   J`((_/ \\\");
+console.log("                                   / ) | _\\\     /");
+console.log("                                  /|)  \\\  eJ    L");
+console.log("                                 |  \\\ L \\\   L   L");
+console.log("                                /  \\\  J  `. J   L");
+console.log("                                |  )   L   \\\/   \\\");
+console.log("                               /  \\\    J   (\\\   /");
+console.log("             _....___         |  \\\      \\\   \\\```");
+console.log("      ,.._.-'        '''--...-||\\\     -. \\\   \\\");
+console.log("    .'.=.'                    `         `.\\\ [ Y");
+console.log("   /   /                                  \\\]  J");
+console.log("  Y / Y                                    Y   L");
+console.log("  | | |          \\\                         |   L");
+console.log("  | | |           Y                        A  J");
+console.log("  |   I           |                       /I\\\ /");
+console.log("  |    \\\          I             \\\        ( |]/|");
+console.log("  J     \\\         /._           /        -tI/ |");
+console.log("   L     )       /   /'-------'J           `'-:.");
+console.log("   J   .'      ,'  ,' ,     \\\   `'-.__          \\\");
+console.log("    \\\ T      ,'  ,'   )\\\    /|        ';'---7   /");
+console.log("     \\\|    ,'L  Y...-' / _.' /         \\\   /   /");
+console.log("      J   Y  |  J    .'-'   /         ,--.(   /");
+console.log("       L  |  J   L -'     .'         /  |    /\\\");
+console.log("       |  J.  L  J     .-;.-/       |    \\\ .' /");
+console.log("       J   L`-J   L____,.-'`        |  _.-'   |");
+console.log("        L  J   L  J                  ``  J    |");
+console.log("        J   L  |   L                     J    |");
+console.log("         L  J  L    \\\                    L    \\\");
+console.log("         |   L  ) _.'\\\                    ) _.'\\\");
+console.log("         L    \\\('`    \\\                  ('`    \\\");
+console.log("          ) _.'\\\`-....'                   `-....'");
+console.log("         ('`    \\\");
+console.log("          `-.___/   sk");
+
+]]></content>
+  <tabTrigger>unicorn</tabTrigger>
+  <scope>source.js</scope>
+</snippet>
