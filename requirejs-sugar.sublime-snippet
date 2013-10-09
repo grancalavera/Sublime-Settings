@@ -1,10 +1,11 @@
 <snippet>
     <content><![CDATA[
 // ${1:Description}
-// ${2:leoncoto@gmail.com}${2:leon.coto@mcsaatchi.com}
+// ${2:leoncoto@gmail.com}${3:leon.coto@mcsaatchi.com}
 define(function (require, exports, module) {
-    'use strict';
-    ${4}
+  'use strict';
+  ${4}
+  return exports;
 });
 ]]></content>
     <tabTrigger>sugar</tabTrigger>
