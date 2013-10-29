@@ -1,14 +1,14 @@
 {
 	"caret_style": "phase",
-	"color_scheme": "Packages/Color Scheme - Default/Solarized (Dark).tmTheme",
+	"color_scheme": "Packages/Color Scheme - Default/Blackboard.tmTheme",
 	"default_line_ending": "LF",
 	"ensure_newline_at_eof_on_save": true,
 	"font_size": 12,
 	"highlight_line": true,
 	"ignored_packages":
 	[
-		"LESS-build",
 		"Ensime",
+		"LESS-build",
 		"Vintage"
 	],
 	"indent_guide_options":
@@ -28,5 +28,5 @@
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
 	"use_simple_full_screen": true,
-	"wrap_width": 100
+	"wrap_width": 80
 }
