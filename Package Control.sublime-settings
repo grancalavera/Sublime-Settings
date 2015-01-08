@@ -1,27 +1,25 @@
 {
 	"auto_upgrade_last_run": null,
+	"in_process_packages":
+	[
+	],
+	"installed_dependencies":
+	[
+		"0_package_control_loader",
+		"bz2"
+	],
 	"installed_packages":
 	[
 		"Backbone.js",
 		"Backbone.Marionette",
-		"EditorConfig",
-		"Ensime",
-		"FileDiffs",
-		"FileTemplates",
 		"Handlebars",
-		"Jade",
 		"LESS",
-		"LESS-build",
-		"LineEndings",
-		"Liquid",
 		"MacTerminal",
 		"Package Control",
 		"Pretty JSON",
 		"Sass",
 		"Search Stack Overflow",
 		"Seti_UI",
-		"Siteleaf Liquid Syntax",
-		"Sublimerge Pro",
 		"Swift",
 		"Terminal",
 		"Theme - Soda",

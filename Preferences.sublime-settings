@@ -9,10 +9,7 @@
 	"highlight_line": true,
 	"ignored_packages":
 	[
-		"Ensime",
-		"Sublimerge Pro",
-		"Vintage",
-		"LESS-build"
+		"Vintage"
 	],
 	"indent_guide_options":
 	[
