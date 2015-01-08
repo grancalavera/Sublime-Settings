@@ -2,10 +2,9 @@
     <content><![CDATA[
 // ${1:Description}
 // ${2:leoncoto@gmail.com}${3:leon.coto@mcsaatchi.com}
-define(function (require, exports, module) {
-  'use strict';
-  ${4}
-  return exports;
+define(function (require) {
+    'use strict';
+    ${4}
 });
 ]]></content>
     <tabTrigger>sugar</tabTrigger>

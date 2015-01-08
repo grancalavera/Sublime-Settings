@@ -1,6 +1,8 @@
 {
+	"Seti_tabs_small": true,
+	"caret_extra_width": 1,
 	"caret_style": "phase",
-	"color_scheme": "Packages/Color Scheme - Default/Blackboard.tmTheme",
+	"color_scheme": "Packages/Color Scheme - Default/Solarized (Light).tmTheme",
 	"default_line_ending": "LF",
 	"ensure_newline_at_eof_on_save": true,
 	"font_size": 12,
@@ -8,8 +10,9 @@
 	"ignored_packages":
 	[
 		"Ensime",
-		"LESS-build",
-		"Vintage"
+		"Sublimerge Pro",
+		"Vintage",
+		"LESS-build"
 	],
 	"indent_guide_options":
 	[
@@ -24,9 +27,9 @@
 	],
 	"scroll_past_end": true,
 	"tab_size": 4,
-	"theme": "Soda Dark.sublime-theme",
+	"theme": "Seti.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
-	"use_simple_full_screen": true,
+	"use_simple_full_screen": true
 	"wrap_width": 80
 }

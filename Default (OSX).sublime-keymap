@@ -5,7 +5,8 @@
   // Sublime
   //
   //--------------------------------------------------------------------------
-  { "keys": ["super+ctrl+alt+d"], "command": "toggle_side_bar" },
+
+  // { "keys": ["super+ctrl+alt+d"], "command": "toggle_side_bar" },
   { "keys": ["super+shift+backspace"], "command": "delete_trailing_spaces" },
   { "keys": ["super+shift+w"], "command": "close_all" },
 
@@ -57,5 +58,8 @@
         "key": "emmet_action_enabled.expand_abbreviation"
       }
     ]
-  }
+  },
+  { "keys": ["ctrl+alt+p"], "command": "scroll_lines", "args": {"amount": 2.0} },
+  { "keys": ["ctrl+alt+n"], "command": "scroll_lines", "args": {"amount": -2.0} },
+
 ]

@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+// jshint debug:true
+debugger
+
+]]></content>
+	<tabTrigger>breakpoint</tabTrigger>
+	<scope>source.js,source.c++.arduino</scope>
+</snippet>

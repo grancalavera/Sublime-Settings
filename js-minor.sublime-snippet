@@ -7,5 +7,5 @@
 //----------------------------------
 ]]></content>
     <tabTrigger>minor</tabTrigger>
-    <scope>source.js</scope>
+    <scope>source.js,source.sass</scope>
 </snippet>

@@ -2,7 +2,6 @@
 	"auto_upgrade_last_run": null,
 	"installed_packages":
 	[
-		"Apache Pig",
 		"Backbone.js",
 		"Backbone.Marionette",
 		"EditorConfig",
@@ -13,13 +12,17 @@
 		"Jade",
 		"LESS",
 		"LESS-build",
+		"LineEndings",
 		"Liquid",
 		"MacTerminal",
 		"Package Control",
 		"Pretty JSON",
 		"Sass",
 		"Search Stack Overflow",
-		"SVN",
+		"Seti_UI",
+		"Siteleaf Liquid Syntax",
+		"Sublimerge Pro",
+		"Swift",
 		"Terminal",
 		"Theme - Soda",
 		"TrailingSpaces"

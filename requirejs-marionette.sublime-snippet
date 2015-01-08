@@ -1,8 +1,6 @@
 <snippet>
   <content><![CDATA[
-var Backbone = require('backbone');
-require('backbone.marionette');
-var Marionette = Backbone.Marionette;${1}
+var Marionette = require('backbone.marionette')${1}
 ]]></content>
   <tabTrigger>requiremarionette</tabTrigger>
   <scope>source.js</scope>
