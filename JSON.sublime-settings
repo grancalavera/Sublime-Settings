@@ -1,6 +1,7 @@
 {
-	"extensions":
-	[
-		".jshintrc"
-	]
+    "extensions":
+    [
+        ".jshintrc",
+        "json.hbs"
+    ]
 }

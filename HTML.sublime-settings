@@ -1,7 +1,6 @@
 {
-	"extensions":
-	[
-		"hbs",
-		"cshtml"
-	]
+    "extensions":
+    [
+        "cshtml"
+    ]
 }
