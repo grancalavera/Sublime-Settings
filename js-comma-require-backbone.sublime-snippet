@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+, Backbone = require('backbone')${1}
+]]></content>
+  <tabTrigger>commarequirebackbone</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

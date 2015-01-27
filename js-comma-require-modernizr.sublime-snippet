@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+, Modernizr = require('modernizr')${1}
+]]></content>
+  <tabTrigger>commarequiremodernizr</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

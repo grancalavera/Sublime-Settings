@@ -1,0 +1,13 @@
+<snippet>
+    <content><![CDATA[
+function p(o,fn) {
+    fn = fn || function(x) { return x }
+    return fn(JSON.stringify(o, null, 4))
+}
+function pc(o) {
+    return p(o, console.log)
+}
+]]></content>
+    <tabTrigger>prettyprint</tabTrigger>
+    <scope>source.js</scope>
+</snippet>

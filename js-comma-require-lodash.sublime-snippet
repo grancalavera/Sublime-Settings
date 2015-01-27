@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+, _ = require('lodash')${1}
+]]></content>
+  <tabTrigger>commarequirelodash</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

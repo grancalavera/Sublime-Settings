@@ -5,5 +5,5 @@
  */
 ]]></content>
     <tabTrigger>jsdoc</tabTrigger>
-    <scope>source.js,source.sass</scope>
+    <scope>source.js</scope>
 </snippet>
