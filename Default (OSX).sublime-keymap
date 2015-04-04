@@ -1,65 +1,20 @@
 [
 
-  //--------------------------------------------------------------------------
-  //
-  // Sublime
-  //
-  //--------------------------------------------------------------------------
-
-  // { "keys": ["super+ctrl+alt+d"], "command": "toggle_side_bar" },
   { "keys": ["super+shift+backspace"], "command": "delete_trailing_spaces" },
   { "keys": ["super+shift+w"], "command": "close_all" },
+  { "keys": ["ctrl+alt+p"], "command": "scroll_lines", "args": {"amount": 10.0} },
+  { "keys": ["ctrl+alt+n"], "command": "scroll_lines", "args": {"amount": -10.0} },
+  { "keys": ["ctrl+k", "ctrl+b"], "command": "toggle_side_bar" },
 
-  //--------------------------------------------------------------------------
-  //
-  // Emmet: Remember to comment the default configuration in Emmet
-  //        (or find the proper way to override Emmet settings)
-  //        see: https://github.com/sergeche/emmet-sublime#overriding-keyboard-shortcuts
-  //
-  //--------------------------------------------------------------------------
-  {
-    "keys": [
-      "ctrl+["
-    ],
-    "args": {
-      "action": "match_pair_outward"
-    },
-    "command": "run_emmet_action",
-    "context": [
-      {
-        "key": "emmet_action_enabled.match_pair_outward"
-      }
-    ]
-  },
-  {
-    "keys": [
-      "ctrl+["
-    ],
-    "args": {
-      "action": "match_pair_inward"
-    },
-    "command": "run_emmet_action",
-    "context": [
-      {
-        "key": "emmet_action_enabled.match_pair_inward"
-      }
-    ]
-  },
-  {
-    "keys": [
-      "ctrl+x"
-    ],
-    "args": {
-      "action": "expand_abbreviation"
-    },
-    "command": "run_emmet_action",
-    "context": [
-      {
-        "key": "emmet_action_enabled.expand_abbreviation"
-      }
-    ]
-  },
-  { "keys": ["ctrl+alt+p"], "command": "scroll_lines", "args": {"amount": 2.0} },
-  { "keys": ["ctrl+alt+n"], "command": "scroll_lines", "args": {"amount": -2.0} },
+  { "keys": ["ctrl+k", "ctrl+up"], "command": "new_pane" },
+  { "keys": ["ctrl+k", "ctrl+shift+up"], "command": "new_pane", "args": {"move": false} },
+  { "keys": ["ctrl+k", "ctrl+down"], "command": "close_pane" },
+  { "keys": ["ctrl+k", "ctrl+left"], "command": "focus_neighboring_group", "args": {"forward": false} },
+  { "keys": ["ctrl+k", "ctrl+shift+left"], "command": "move_to_neighboring_group", "args": {"forward": false} },
+  { "keys": ["ctrl+k", "ctrl+right"], "command": "focus_neighboring_group" },
+  { "keys": ["ctrl+k", "ctrl+shift+right"], "command": "move_to_neighboring_group" },
+
+  { "keys": ["ctrl+super+n"], "command": "swap_line_down" },
+  { "keys": ["ctrl+super+p"], "command": "swap_line_up" },
 
 ]
