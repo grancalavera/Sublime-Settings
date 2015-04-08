@@ -22,5 +22,28 @@
 
   { "keys": ["ctrl+k", "ctrl+k"], "command": "run_macro_file", "args": {"file": "res://Packages/Default/Delete to Hard EOL.sublime-macro"} },
   { "keys": ["ctrl+d"], "command": "right_delete" },
+
+  { "keys": ["ctrl+alt+p"], "command": "scroll_lines", "args": {"amount": 10.0} },
+  { "keys": ["ctrl+alt+n"], "command": "scroll_lines", "args": {"amount": -10.0} },
+
+  { "keys": ["alt+d"], "command": "find_under_expand" },
+  { "keys": ["alt+k", "ctrl+d"], "command": "find_under_expand_skip" },
+
+  { "keys": ["ctrl+shift+p"], "command": "swap_line_up" },
+  { "keys": ["ctrl+shift+n"], "command": "swap_line_down" },
+
+  { "keys": ["alt+z"], "command": "undo" },
+  { "keys": ["alt+shift+z"], "command": "redo" },
+  { "keys": ["alt+y"], "command": "redo_or_repeat" },
+  { "keys": ["alt+u"], "command": "soft_undo" },
+  { "keys": ["alt+shift+u"], "command": "soft_redo" },
+
+  /* I might be able to live without these ones
+  { "keys": ["alt+x"], "command": "cut" },
+  { "keys": ["alt+c"], "command": "copy" },
+  { "keys": ["alt+v"], "command": "paste" },
+  { "keys": ["alt+shift+v"], "command": "paste_and_indent" },
+  { "keys": ["alt+k", "alt+v"], "command": "paste_from_history" }
+  */
 ]
 
