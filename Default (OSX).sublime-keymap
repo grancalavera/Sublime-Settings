@@ -18,5 +18,6 @@
   { "keys": ["ctrl+super+p"], "command": "swap_line_up" },
   { "keys": ["ctrl+shift+p"], "command": "select_lines", "args": {"forward": false} },
   { "keys": ["ctrl+shift+n"], "command": "select_lines", "args": {"forward": true} },
-
+  // Quick Switch Project
+  // { "keys": ["ctrl+alt+p"], "command": "prompt_select_workspace" }
 ]
