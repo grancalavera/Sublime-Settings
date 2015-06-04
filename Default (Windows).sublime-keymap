@@ -23,20 +23,27 @@
   { "keys": ["ctrl+k", "ctrl+k"], "command": "run_macro_file", "args": {"file": "res://Packages/Default/Delete to Hard EOL.sublime-macro"} },
   { "keys": ["ctrl+d"], "command": "right_delete" },
 
-  { "keys": ["ctrl+alt+p"], "command": "scroll_lines", "args": {"amount": 10.0} },
-  { "keys": ["ctrl+alt+n"], "command": "scroll_lines", "args": {"amount": -10.0} },
+  { "keys": ["ctrl+alt+shift+p"], "command": "scroll_lines", "args": {"amount": 10.0} },
+  { "keys": ["ctrl+alt+shift+n"], "command": "scroll_lines", "args": {"amount": -10.0} },
 
   { "keys": ["alt+d"], "command": "find_under_expand" },
   { "keys": ["alt+k", "ctrl+d"], "command": "find_under_expand_skip" },
 
-  { "keys": ["ctrl+shift+p"], "command": "swap_line_up" },
-  { "keys": ["ctrl+shift+n"], "command": "swap_line_down" },
+  { "keys": ["ctrl+alt+p"], "command": "swap_line_up" },
+  { "keys": ["ctrl+alt+n"], "command": "swap_line_down" },
+
+  { "keys": ["ctrl+shift+p"], "command": "select_lines", "args": {"forward": false} },
+  { "keys": ["ctrl+shift+n"], "command": "select_lines", "args": {"forward": true} },
 
   { "keys": ["alt+z"], "command": "undo" },
   { "keys": ["alt+shift+z"], "command": "redo" },
   { "keys": ["alt+y"], "command": "redo_or_repeat" },
   { "keys": ["alt+u"], "command": "soft_undo" },
   { "keys": ["alt+shift+u"], "command": "soft_redo" },
+
+  { "keys": ["ctrl+alt+f"], "command": "toggle_full_screen" },
+  { "keys": ["ctrl+alt+shift+f"], "command": "toggle_distraction_free" },
+  { "keys": ["ctrl+k", "ctrl+p"], "command": "prompt_select_workspace" },
 
   /* I might be able to live without these ones
   { "keys": ["alt+x"], "command": "cut" },
@@ -46,4 +53,3 @@
   { "keys": ["alt+k", "alt+v"], "command": "paste_from_history" }
   */
 ]
-
