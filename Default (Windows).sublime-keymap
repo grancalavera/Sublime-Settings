@@ -27,7 +27,7 @@
   { "keys": ["ctrl+alt+shift+n"], "command": "scroll_lines", "args": {"amount": -10.0} },
 
   { "keys": ["alt+d"], "command": "find_under_expand" },
-  { "keys": ["alt+k", "ctrl+d"], "command": "find_under_expand_skip" },
+  { "keys": ["alt+k", "alt+d"], "command": "find_under_expand_skip" },
 
   { "keys": ["ctrl+alt+p"], "command": "swap_line_up" },
   { "keys": ["ctrl+alt+n"], "command": "swap_line_down" },
@@ -45,11 +45,10 @@
   { "keys": ["ctrl+alt+shift+f"], "command": "toggle_distraction_free" },
   { "keys": ["ctrl+k", "ctrl+p"], "command": "prompt_select_workspace" },
 
-  /* I might be able to live without these ones
   { "keys": ["alt+x"], "command": "cut" },
   { "keys": ["alt+c"], "command": "copy" },
   { "keys": ["alt+v"], "command": "paste" },
   { "keys": ["alt+shift+v"], "command": "paste_and_indent" },
   { "keys": ["alt+k", "alt+v"], "command": "paste_from_history" }
-  */
+
 ]
