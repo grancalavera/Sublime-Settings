@@ -5,9 +5,11 @@
 	],
 	"installed_packages":
 	[
-		"Backbone.js",
-		"Backbone.Marionette",
+		"ApplySyntax",
+		"Dockerfile Syntax Highlighting",
 		"Handlebars",
+		"Jade",
+		"JavaScriptNext - ES6 Syntax",
 		"LESS",
 		"MacTerminal",
 		"Package Control",

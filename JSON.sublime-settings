@@ -1,7 +1,10 @@
 {
-    "extensions":
-    [
-        ".jshintrc",
-        "json.hbs"
-    ]
+	"extensions":
+	[
+		"json.hbs",
+		".jscsrc",
+		".jshintrc",
+		".csslintrc",
+		"conf"
+	]
 }

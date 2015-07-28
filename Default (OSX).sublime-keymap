@@ -2,22 +2,11 @@
 
   { "keys": ["super+shift+backspace"], "command": "delete_trailing_spaces" },
   { "keys": ["super+shift+w"], "command": "close_all" },
-  { "keys": ["ctrl+alt+p"], "command": "scroll_lines", "args": {"amount": 10.0} },
-  { "keys": ["ctrl+alt+n"], "command": "scroll_lines", "args": {"amount": -10.0} },
-  { "keys": ["ctrl+k", "ctrl+b"], "command": "toggle_side_bar" },
-
-  { "keys": ["ctrl+k", "ctrl+up"], "command": "new_pane" },
-  { "keys": ["ctrl+k", "ctrl+shift+up"], "command": "new_pane", "args": {"move": false} },
-  { "keys": ["ctrl+k", "ctrl+down"], "command": "close_pane" },
-  { "keys": ["ctrl+k", "ctrl+left"], "command": "focus_neighboring_group", "args": {"forward": false} },
-  { "keys": ["ctrl+k", "ctrl+shift+left"], "command": "move_to_neighboring_group", "args": {"forward": false} },
-  { "keys": ["ctrl+k", "ctrl+right"], "command": "focus_neighboring_group" },
-  { "keys": ["ctrl+k", "ctrl+shift+right"], "command": "move_to_neighboring_group" },
-
+  { "keys": ["ctrl+shift+super+p"], "command": "scroll_lines", "args": {"amount": 10.0} },
+  { "keys": ["ctrl+shift+super+n"], "command": "scroll_lines", "args": {"amount": -10.0} },
   { "keys": ["ctrl+super+n"], "command": "swap_line_down" },
   { "keys": ["ctrl+super+p"], "command": "swap_line_up" },
   { "keys": ["ctrl+shift+p"], "command": "select_lines", "args": {"forward": false} },
   { "keys": ["ctrl+shift+n"], "command": "select_lines", "args": {"forward": true} },
-  // Quick Switch Project
-  // { "keys": ["ctrl+alt+p"], "command": "prompt_select_workspace" }
+  { "keys": ["ctrl+alt+p"], "command": "prompt_select_workspace" }
 ]

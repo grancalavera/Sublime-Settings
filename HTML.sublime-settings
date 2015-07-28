@@ -1,6 +1,10 @@
 {
-    "extensions":
-    [
-        "cshtml"
-    ]
+	"extensions":
+	[
+		"cshtml",
+		"list",
+		"item",
+		"region",
+		"block"
+	]
 }
