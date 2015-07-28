@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-/*
- * ${1:blah}
- */
-]]></content>
-    <tabTrigger>jsdoc</tabTrigger>
-    <scope>source.jsm,source.sass</scope>
-</snippet>

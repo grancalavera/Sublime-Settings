@@ -1,7 +1,0 @@
-<snippet>
-  <content><![CDATA[
-var Handlebars = require('handlebars')${1}
-]]></content>
-  <tabTrigger>requirehandlebars</tabTrigger>
-  <scope>source.js</scope>
-</snippet>

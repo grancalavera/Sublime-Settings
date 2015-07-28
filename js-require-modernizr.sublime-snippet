@@ -1,7 +1,0 @@
-<snippet>
-  <content><![CDATA[
-var Modernizr = require('modernizr')${1}
-]]></content>
-  <tabTrigger>requiremodernizr</tabTrigger>
-  <scope>source.js</scope>
-</snippet>

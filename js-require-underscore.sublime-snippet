@@ -1,7 +1,0 @@
-<snippet>
-  <content><![CDATA[
-var _ = require('underscore')${1}
-]]></content>
-  <tabTrigger>requireunderscore</tabTrigger>
-  <scope>source.js</scope>
-</snippet>

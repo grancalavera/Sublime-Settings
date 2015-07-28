@@ -1,7 +1,0 @@
-<snippet>
-    <content><![CDATA[
-//--------------------------------------
-]]></content>
-    <tabTrigger>minor</tabTrigger>
-    <scope>source.js,source.sass</scope>
-</snippet>
